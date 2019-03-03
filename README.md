@@ -14,5 +14,8 @@ assessment together. Let's get it.
 Please read the READMEs for each section. They are listed below. I know I'm kinda garbage with writing md files so they are 
 not as pretty as Leon's but hopefully they do the trick.
 
-
-
+The recommended order to do (or from what I believe to be the order that is least challenging to most difficult) is:
+* BasicStrings
+* ArrayLists
+* MapPractice
+* Dan's Dilemma
