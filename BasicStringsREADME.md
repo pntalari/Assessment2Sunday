@@ -1,6 +1,6 @@
 # Basic Strings
 
-* Create a class `BasicStrings` and make some tests pass. :)
+Create a class `BasicStrings` and make some tests pass. :)
 
 * `flipConcat` should concatenate `string1` to the end of `string2`.
 
