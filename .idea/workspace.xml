@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76efec68-7a53-41b9-a76c-3ac86bff763c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StringsTests/BasicStringsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DansDilemmaREADME.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/MapPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CollectionsTests/MapPracticeTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DansDilemmaTests/DansDilemmaTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicStringsREADME.md" beforeDir="false" afterPath="$PROJECT_DIR$/BasicStringsREADME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Collections/ArrayLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Collections/ArrayLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Strings/BasicStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Strings/BasicStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CollectionsTests/ArrayListsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CollectionsTests/ArrayListsTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,45 +25,75 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/StringsTests/BasicStringsTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CollectionsTests/MapPracticeTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="159">
+              <caret line="228" column="25" selection-start-line="228" selection-start-column="25" selection-end-line="228" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#2903#2921#0" expanded="true" />
+                <element signature="e#3522#3540#0" expanded="true" />
+                <element signature="e#3990#4008#0" expanded="true" />
+                <element signature="e#4375#4393#0" expanded="true" />
+                <element signature="e#4732#4750#0" expanded="true" />
+                <element signature="e#5076#5094#0" expanded="true" />
+                <element signature="e#5759#5777#0" expanded="true" />
+                <element signature="e#6436#6454#0" expanded="true" />
+                <element signature="e#7196#7214#0" expanded="true" />
+                <element signature="e#7616#7634#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/StringsTests/BasicStringsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1831">
-              <caret line="127" column="5" lean-forward="true" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
+            <state relative-caret-position="-2354">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#403#412#0" expanded="true" />
-                <element signature="e#546#555#0" expanded="true" />
-                <element signature="e#893#902#0" expanded="true" />
-                <element signature="e#1036#1045#0" expanded="true" />
-                <element signature="e#1273#1282#0" expanded="true" />
-                <element signature="e#1416#1425#0" expanded="true" />
-                <element signature="e#1583#1592#0" expanded="true" />
-                <element signature="e#1726#1735#0" expanded="true" />
-                <element signature="e#2061#2070#0" expanded="true" />
-                <element signature="e#2204#2213#0" expanded="true" />
-                <element signature="e#2453#2462#0" expanded="true" />
-                <element signature="e#2518#2527#0" expanded="true" />
-                <element signature="e#2782#2791#0" expanded="true" />
-                <element signature="e#3264#3273#0" expanded="true" />
-                <element signature="e#3743#3752#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Collections/MapPractice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+                <element signature="e#1165#1183#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DansDilemmaTests/DansDilemmaTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1052">
+              <caret line="177" column="5" selection-start-line="177" selection-start-column="5" selection-end-line="177" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,27 +102,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Collections/ArrayLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            <state relative-caret-position="210">
+              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
               <folding>
                 <element signature="e#655#664#0" expanded="true" />
+                <element signature="e#1552#1563#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+            <state relative-caret-position="-1345">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#514#515#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,10 +139,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java" />
         <option value="$PROJECT_DIR$/src/test/java/StringsTests/BasicStringsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java" />
         <option value="$PROJECT_DIR$/src/main/java/Collections/ArrayLists.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/UniqueSolutionsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DansDilemma.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DansDilemmaTests/DansDilemmaTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java" />
+        <option value="$PROJECT_DIR$/BasicStringsREADME.md" />
+        <option value="$PROJECT_DIR$/DansDilemmaREADME.md" />
+        <option value="$PROJECT_DIR$/src/test/java/CollectionsTests/MapTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Collections/MapPractice.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CollectionsTests/MapPracticeTests.java" />
       </list>
     </option>
   </component>
@@ -119,9 +162,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-440" />
-    <option name="y" value="-1030" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="722" />
   </component>
@@ -131,7 +173,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,14 +202,6 @@
               <item name="Assessment2Sunday" type="b2602c69:ProjectViewProjectNode" />
               <item name="Assessment2Sunday" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Assessment2Sunday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assessment2Sunday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -177,6 +210,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assessment2Sunday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assessment2Sunday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="CollectionsTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assessment2Sunday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assessment2Sunday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="DansDilemmaTests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Assessment2Sunday" type="b2602c69:ProjectViewProjectNode" />
@@ -190,18 +239,20 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551493373373" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551584735581" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="DansDilemma" />
       <recent name="Collections" />
       <recent name="Strings" />
     </key>
@@ -218,8 +269,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayListsTest">
-    <configuration name="ArrayListsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.All in Assessment2Sunday">
+    <configuration name="All in Assessment2Sunday" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assessment2Sunday" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapPracticeTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assessment2Sunday" />
       <extension name="coverage">
         <pattern>
@@ -228,70 +287,54 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="CollectionsTests" />
-      <option name="MAIN_CLASS_NAME" value="CollectionsTests.ArrayListsTest" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapPracticeTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicStringsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MapTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assessment2Sunday" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringsTests.*" />
+          <option name="PATTERN" value="CollectionsTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="StringsTests" />
-      <option name="MAIN_CLASS_NAME" value="StringsTests.BasicStringsTest" />
+      <option name="PACKAGE_NAME" value="CollectionsTests" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicStringsTest.iCantSeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MapTests.crazySpiralTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assessment2Sunday" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringsTests.*" />
+          <option name="PATTERN" value="CollectionsTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="StringsTests" />
-      <option name="MAIN_CLASS_NAME" value="StringsTests.BasicStringsTest" />
-      <option name="METHOD_NAME" value="iCantSeeTest" />
+      <option name="PACKAGE_NAME" value="CollectionsTests" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapTests" />
+      <option name="METHOD_NAME" value="crazySpiralTest3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicStringsTest.iCantSeeTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MapTests.crazySpiralTest5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assessment2Sunday" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringsTests.*" />
+          <option name="PATTERN" value="CollectionsTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="StringsTests" />
-      <option name="MAIN_CLASS_NAME" value="StringsTests.BasicStringsTest" />
-      <option name="METHOD_NAME" value="iCantSeeTest2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BasicStringsTest.iCantSeeTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Assessment2Sunday" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringsTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="StringsTests" />
-      <option name="MAIN_CLASS_NAME" value="StringsTests.BasicStringsTest" />
-      <option name="METHOD_NAME" value="iCantSeeTest3" />
+      <option name="PACKAGE_NAME" value="CollectionsTests" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapTests" />
+      <option name="METHOD_NAME" value="crazySpiralTest5" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -299,11 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArrayListsTest" />
-        <item itemvalue="JUnit.BasicStringsTest" />
-        <item itemvalue="JUnit.BasicStringsTest.iCantSeeTest3" />
-        <item itemvalue="JUnit.BasicStringsTest.iCantSeeTest2" />
-        <item itemvalue="JUnit.BasicStringsTest.iCantSeeTest" />
+        <item itemvalue="JUnit.All in Assessment2Sunday" />
+        <item itemvalue="JUnit.MapPracticeTests" />
+        <item itemvalue="JUnit.MapTests.crazySpiralTest3" />
+        <item itemvalue="JUnit.MapTests.crazySpiralTest5" />
+        <item itemvalue="JUnit.MapTests" />
       </list>
     </recent_temporary>
   </component>
@@ -317,62 +360,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551486102817</updated>
-      <workItem from="1551486106230" duration="7213000" />
+      <workItem from="1551486106230" duration="18884000" />
+      <workItem from="1551581971458" duration="2689000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BasicStringsTest - 2019.03.01 at 20h 17m 26s.xml">
-      <configuration name="BasicStringsTest" configurationId="JUnit" />
+    <history-entry file="DansDilemmaTests_dilemmaOfTwoDoubleTest2 - 2019.03.02 at 21h 58m 39s.xml">
+      <configuration name="DansDilemmaTests.dilemmaOfTwoDoubleTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicStringsTest - 2019.03.01 at 20h 36m 33s.xml">
-      <configuration name="BasicStringsTest" configurationId="JUnit" />
+    <history-entry file="DansDilemmaTests - 2019.03.02 at 22h 02m 06s.xml">
+      <configuration name="DansDilemmaTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayListsTest - 2019.03.01 at 20h 54m 05s.xml">
-      <configuration name="ArrayListsTest" configurationId="JUnit" />
+    <history-entry file="All_in_Assessment2Sunday - 2019.03.02 at 22h 08m 52s.xml">
+      <configuration name="All in Assessment2Sunday" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayListsTest - 2019.03.01 at 20h 54m 49s.xml">
-      <configuration name="ArrayListsTest" configurationId="JUnit" />
+    <history-entry file="MapTests_fibonacciTreeTest1 - 2019.03.02 at 22h 26m 12s.xml">
+      <configuration name="MapTests.fibonacciTreeTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayListsTest - 2019.03.01 at 20h 59m 42s.xml">
-      <configuration name="ArrayListsTest" configurationId="JUnit" />
+    <history-entry file="MapTests - 2019.03.02 at 22h 28m 02s.xml">
+      <configuration name="MapTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayListsTest - 2019.03.01 at 21h 07m 04s.xml">
-      <configuration name="ArrayListsTest" configurationId="JUnit" />
+    <history-entry file="MapTests_crazySpiralTest5 - 2019.03.02 at 22h 35m 20s.xml">
+      <configuration name="MapTests.crazySpiralTest5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayListsTest - 2019.03.01 at 21h 09m 08s.xml">
-      <configuration name="ArrayListsTest" configurationId="JUnit" />
+    <history-entry file="MapTests_crazySpiralTest3 - 2019.03.02 at 22h 38m 24s.xml">
+      <configuration name="MapTests.crazySpiralTest3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayListsTest - 2019.03.01 at 21h 13m 09s.xml">
-      <configuration name="ArrayListsTest" configurationId="JUnit" />
+    <history-entry file="MapPracticeTests - 2019.03.02 at 22h 41m 09s.xml">
+      <configuration name="MapPracticeTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayListsTest - 2019.03.01 at 21h 14m 19s.xml">
-      <configuration name="ArrayListsTest" configurationId="JUnit" />
+    <history-entry file="MapPracticeTests - 2019.03.02 at 22h 42m 05s.xml">
+      <configuration name="MapPracticeTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayListsTest - 2019.03.01 at 21h 15m 02s.xml">
-      <configuration name="ArrayListsTest" configurationId="JUnit" />
+    <history-entry file="MapPracticeTests - 2019.03.02 at 22h 42m 22s.xml">
+      <configuration name="MapPracticeTests" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7213000" />
+    <option name="totallyTimeSpent" value="21573000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-440" y="-1030" width="1280" height="722" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="722" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32857144" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
@@ -380,15 +418,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32857144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -440,6 +484,9 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -448,25 +495,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/StringsTests/BasicStringsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        <state relative-caret-position="-434">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
           <folding>
             <element signature="e#110#111#0" expanded="true" />
             <element signature="e#149#150#0" expanded="true" />
@@ -478,39 +510,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Collections/ArrayLists.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/DansDilemmaTests/DansDilemmaTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        <state relative-caret-position="1052">
+          <caret line="177" column="5" selection-start-line="177" selection-start-column="5" selection-end-line="177" selection-end-column="5" />
           <folding>
-            <element signature="e#655#664#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicStringsREADME.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" lean-forward="true" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DansDilemmaREADME.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Collections/MapPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#1165#1183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CollectionsTests/MapPracticeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="228" column="25" selection-start-line="228" selection-start-column="25" selection-end-line="228" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2903#2921#0" expanded="true" />
+            <element signature="e#3522#3540#0" expanded="true" />
+            <element signature="e#3990#4008#0" expanded="true" />
+            <element signature="e#4375#4393#0" expanded="true" />
+            <element signature="e#4732#4750#0" expanded="true" />
+            <element signature="e#5076#5094#0" expanded="true" />
+            <element signature="e#5759#5777#0" expanded="true" />
+            <element signature="e#6436#6454#0" expanded="true" />
+            <element signature="e#7196#7214#0" expanded="true" />
+            <element signature="e#7616#7634#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1831">
-          <caret line="127" column="5" lean-forward="true" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
+        <state relative-caret-position="-1345">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#403#412#0" expanded="true" />
-            <element signature="e#546#555#0" expanded="true" />
-            <element signature="e#893#902#0" expanded="true" />
-            <element signature="e#1036#1045#0" expanded="true" />
-            <element signature="e#1273#1282#0" expanded="true" />
-            <element signature="e#1416#1425#0" expanded="true" />
-            <element signature="e#1583#1592#0" expanded="true" />
-            <element signature="e#1726#1735#0" expanded="true" />
-            <element signature="e#2061#2070#0" expanded="true" />
-            <element signature="e#2204#2213#0" expanded="true" />
-            <element signature="e#2453#2462#0" expanded="true" />
-            <element signature="e#2518#2527#0" expanded="true" />
-            <element signature="e#2782#2791#0" expanded="true" />
-            <element signature="e#3264#3273#0" expanded="true" />
-            <element signature="e#3743#3752#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Collections/ArrayLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="e#655#664#0" expanded="true" />
+            <element signature="e#1552#1563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StringsTests/BasicStringsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2354">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

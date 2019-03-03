@@ -7,8 +7,8 @@ public class BasicStrings {
     }
 
 
-    public char getChar(String string, int i) {
-        return string.charAt(i);
+    public char getChar(String string, int index) {
+        return string.charAt(index);
     }
 
 

@@ -26,4 +26,32 @@ public class ArrayLists {
         while (clone.remove(toRemove));
         return clone;
     }
+
+
+    public boolean happyList(ArrayList<String> original) {
+        for(int i = 1; i < original.size(); i++){
+            ArrayList<Character> lastChars = characterArrayListMaker(original.get(i-1));
+            ArrayList<Character> currentChars = characterArrayListMaker(original.get(i));
+            boolean compareFlag = false;
+            for(Character last : lastChars){
+                for(Character current : currentChars){
+                    if (last.equals(current)){
+                        compareFlag = true;
+                    }
+                }
+            }
+            if(!compareFlag){
+                return false;
+            }
+        }
+        return true;
+    }
+
+    private ArrayList<Character> characterArrayListMaker(String s) {
+        ArrayList<Character> result = new ArrayList<Character>();
+        for (int i = 0; i < s.length(); i++){
+            result.add(s.charAt(i));
+        }
+        return result;
+    }
 }
