@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76efec68-7a53-41b9-a76c-3ac86bff763c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DansDilemmaREADME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/MapPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CollectionsTests/MapPracticeTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DansDilemmaTests/DansDilemmaTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicStringsREADME.md" beforeDir="false" afterPath="$PROJECT_DIR$/BasicStringsREADME.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/MapPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/MapPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Collections/ArrayLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Collections/ArrayLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Strings/BasicStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Strings/BasicStrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/CollectionsTests/ArrayListsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CollectionsTests/ArrayListsTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,74 +19,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CollectionsTests/MapPracticeTests.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="228" column="25" selection-start-line="228" selection-start-column="25" selection-end-line="228" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2903#2921#0" expanded="true" />
-                <element signature="e#3522#3540#0" expanded="true" />
-                <element signature="e#3990#4008#0" expanded="true" />
-                <element signature="e#4375#4393#0" expanded="true" />
-                <element signature="e#4732#4750#0" expanded="true" />
-                <element signature="e#5076#5094#0" expanded="true" />
-                <element signature="e#5759#5777#0" expanded="true" />
-                <element signature="e#6436#6454#0" expanded="true" />
-                <element signature="e#7196#7214#0" expanded="true" />
-                <element signature="e#7616#7634#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/StringsTests/BasicStringsTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2354">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Collections/MapPractice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#619#620#0" expanded="true" />
-                <element signature="e#654#655#0" expanded="true" />
-                <element signature="e#1165#1183#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/DansDilemmaTests/DansDilemmaTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1052">
-              <caret line="177" column="5" selection-start-line="177" selection-start-column="5" selection-end-line="177" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -102,24 +39,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Collections/ArrayLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-              <folding>
-                <element signature="e#655#664#0" expanded="true" />
-                <element signature="e#1552#1563#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Collections/MapPractice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1345">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -140,18 +70,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/StringsTests/BasicStringsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Collections/ArrayLists.java" />
         <option value="$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/UniqueSolutionsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/DansDilemma.java" />
         <option value="$PROJECT_DIR$/src/test/java/DansDilemmaTests/DansDilemmaTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java" />
         <option value="$PROJECT_DIR$/BasicStringsREADME.md" />
         <option value="$PROJECT_DIR$/DansDilemmaREADME.md" />
         <option value="$PROJECT_DIR$/src/test/java/CollectionsTests/MapTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Collections/MapPractice.java" />
         <option value="$PROJECT_DIR$/src/test/java/CollectionsTests/MapPracticeTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Collections/ArrayLists.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Collections/MapPractice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java" />
       </list>
     </option>
   </component>
@@ -211,30 +141,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Assessment2Sunday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assessment2Sunday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="CollectionsTests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Assessment2Sunday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assessment2Sunday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="DansDilemmaTests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Assessment2Sunday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assessment2Sunday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="StringsTests" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -245,7 +151,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551584735581" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551591891369" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -361,17 +267,11 @@
       <option name="presentableId" value="Default" />
       <updated>1551486102817</updated>
       <workItem from="1551486106230" duration="18884000" />
-      <workItem from="1551581971458" duration="2689000" />
+      <workItem from="1551581971458" duration="7198000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DansDilemmaTests_dilemmaOfTwoDoubleTest2 - 2019.03.02 at 21h 58m 39s.xml">
-      <configuration name="DansDilemmaTests.dilemmaOfTwoDoubleTest2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DansDilemmaTests - 2019.03.02 at 22h 02m 06s.xml">
-      <configuration name="DansDilemmaTests" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_Assessment2Sunday - 2019.03.02 at 22h 08m 52s.xml">
       <configuration name="All in Assessment2Sunday" configurationId="JUnit" />
     </history-entry>
@@ -396,15 +296,20 @@
     <history-entry file="MapPracticeTests - 2019.03.02 at 22h 42m 22s.xml">
       <configuration name="MapPracticeTests" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_Assessment2Sunday - 2019.03.02 at 22h 45m 36s.xml">
+      <configuration name="All in Assessment2Sunday" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Assessment2Sunday - 2019.03.03 at 00h 38m 48s.xml">
+      <configuration name="All in Assessment2Sunday" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21573000" />
+    <option name="totallyTimeSpent" value="26082000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="722" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -413,7 +318,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -480,6 +385,22 @@
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Collections/MapPractice.java</url>
+          <line>10</line>
+          <properties class="Collections.MapPractice" method="findKeysOf">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java</url>
+          <line>12</line>
+          <properties class="DansDilemma.DansDilemma" method="dilemmaOfN">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -495,25 +416,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-434">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/DansDilemmaREADME.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DansDilemmaTests/DansDilemmaTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1052">
+        <state relative-caret-position="859">
           <caret line="177" column="5" selection-start-line="177" selection-start-column="5" selection-end-line="177" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StringsTests/BasicStringsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CollectionsTests/MapPracticeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="227" column="28" lean-forward="true" selection-start-line="227" selection-start-column="28" selection-end-line="227" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2816">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -530,87 +476,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DansDilemmaREADME.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Collections/MapPractice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#1165#1183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CollectionsTests/MapPracticeTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="228" column="25" selection-start-line="228" selection-start-column="25" selection-end-line="228" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2903#2921#0" expanded="true" />
-            <element signature="e#3522#3540#0" expanded="true" />
-            <element signature="e#3990#4008#0" expanded="true" />
-            <element signature="e#4375#4393#0" expanded="true" />
-            <element signature="e#4732#4750#0" expanded="true" />
-            <element signature="e#5076#5094#0" expanded="true" />
-            <element signature="e#5759#5777#0" expanded="true" />
-            <element signature="e#6436#6454#0" expanded="true" />
-            <element signature="e#7196#7214#0" expanded="true" />
-            <element signature="e#7616#7634#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1345">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Collections/ArrayLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding>
-            <element signature="e#655#664#0" expanded="true" />
-            <element signature="e#1552#1563#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/StringsTests/BasicStringsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2354">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
         </state>
       </provider>
     </entry>
