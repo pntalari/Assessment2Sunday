@@ -11,6 +11,8 @@ for 12 weeks straight. But what I know for a fact is that 5.0 is the best Cohort
 assessment together. Let's get it.
 
 # READMEs
+Please read the READMEs for each section. They are listed below. I know I'm kinda garbage with writing md files so they are 
+not as pretty as Leon's but hopefully they do the trick.
 
 
 
