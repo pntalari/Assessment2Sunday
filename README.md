@@ -15,7 +15,7 @@ Please read the READMEs for each section. They are listed below. I know I'm kind
 not as pretty as Leon's but hopefully they do the trick.
 
 The recommended order to do (or from what I believe to be the order that is least challenging to most difficult) is:
-* BasicStrings
-* ArrayLists
-* MapPractice
-* Dan's Dilemma
+* [BasicStrings](https://github.com/WilliamHXu/Assessment2Sunday/blob/dev/BasicStringsREADME.md)
+* [ArrayLists](https://github.com/WilliamHXu/Assessment2Sunday/blob/dev/ArrayListsREADME.md)
+* [MapPractice](https://github.com/WilliamHXu/Assessment2Sunday/blob/dev/MapPracticeREADME.md)
+* [Dan's Dilemma](https://github.com/WilliamHXu/Assessment2Sunday/blob/dev/DansDilemmaREADME.md)
